@@ -1,0 +1,6 @@
+{
+  "name": "CareerLens AI",
+  "description": "AI-powered portfolio and resume analysis to help you present your skills, projects and experience more effectively.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
